@@ -7,10 +7,11 @@ info:
     description: Spring Boot, Spring Cloud & Netflix OSS Microservice Architecture POC
     git: https://github.com/xcapdevila/msarchitecture-poc-kotlin
   author: 
-    name: Xavier Capdevila Estevez  
+    name: Xavier Capdevila Estevez
+    web: http://www.capdevila.io
     git: https://github.com/xcapdevila
     linkedin: https://www.linkedin.com/in/xcapdevila/
-  license: CC BY-NC-SA
+  license: The MIT License (MIT) Copyright (c) 2017 Xavier Capdevila Estevez
 
 logging:
   file: logs/${spring.application.name}.log
